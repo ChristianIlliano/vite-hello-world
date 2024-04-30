@@ -1,5 +1,5 @@
 <script>
-export deafault {
+export default {
   data() {
     return {
       greeting: "hello",
@@ -10,6 +10,7 @@ export deafault {
 
 <template>
 <h1> {{ greeting }}</h1>
+
 </template>
 
 <style>
