@@ -1,15 +1,9 @@
 <script>
-export deafault {
-  data() {
-    return {
-      greeting: "hello",
-    };
-  },
-};
+
 </script>
 
 <template>
-
+<AppNewSection/>
 </template>
 
 <style>
