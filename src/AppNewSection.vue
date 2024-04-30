@@ -9,7 +9,7 @@ export deafault {
 </script>
 
 <template>
-
+<h1> {{ greeting }}</h1>
 </template>
 
 <style>
